@@ -1,6 +1,5 @@
 #include <iostream>
 #include <math.h>
-#include "PA1_Q1.h"
 using namespace std;
 
 //Function prototypes
