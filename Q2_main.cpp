@@ -6,6 +6,10 @@
 #include "Q2.h"
 using namespace std;
 
+//Function prototypes
+string compChoice(int n);
+string gameResult(int choice, int num);
+
 int main()
 {
         //Prompt user to choose rock, paper, or scissors
